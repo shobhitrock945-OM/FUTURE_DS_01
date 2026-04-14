@@ -37,3 +37,5 @@ This project involves a comprehensive analysis of a retail business dataset to e
 * `Shobhit_Trivedi_Task1_Dashboard.xlsx`: The interactive Excel file.
 * `Business_Sales_Dashboard_Report.pdf`: A single-page professional report.
 * `README.md`: Project documentation.
+## 📸 Dashboard Preview
+Shobhit_Trivedi_Task1_Dashboard.jpg
