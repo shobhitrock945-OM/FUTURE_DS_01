@@ -24,7 +24,7 @@ Based on the final analysis of 9,994 orders:
 * **Average Order Value (AOV):** ₹230
 
 ## 💡 Key Insights
-* [cite_start]**Star Product:** The **Canon ImageCLASS Copier** is the top revenue driver, generating over ₹60,000—nearly triple the revenue of other top items[cite: 3979].
+* **Star Product:** The **Canon ImageCLASS Copier** is the top revenue driver, generating over ₹60,000—nearly triple the revenue of other top items[cite: 3979].
 * [cite_start]**Regional Leader:** The **West Region** is the powerhouse, contributing over ₹10 Lakhs (2.5x more than the Central region)[cite: 3979].
 * [cite_start]**Q4 Seasonality:** Significant sales spikes occur in **September and November**, indicating a strong year-end buying trend[cite: 3979].
 * [cite_start]**High-Volume Model:** An AOV of ₹230 with nearly 10,000 orders confirms a high-frequency business model[cite: 3979].
