@@ -24,18 +24,18 @@ Based on the final analysis of 9,994 orders:
 * **Average Order Value (AOV):** ₹230
 
 ## 💡 Key Insights
-* **Star Product:** The **Canon ImageCLASS Copier** is the top revenue driver, generating over ₹60,000—nearly triple the revenue of other top items[cite: 3979].
-* [cite_start]**Regional Leader:** The **West Region** is the powerhouse, contributing over ₹10 Lakhs (2.5x more than the Central region)[cite: 3979].
-* [cite_start]**Q4 Seasonality:** Significant sales spikes occur in **September and November**, indicating a strong year-end buying trend[cite: 3979].
-* [cite_start]**High-Volume Model:** An AOV of ₹230 with nearly 10,000 orders confirms a high-frequency business model[cite: 3979].
-* [cite_start]**Category Strength:** The **Technology** category is the most vital, driving the highest proportion of both sales and profit[cite: 3979].
+* **Star Product:** The **Canon ImageCLASS Copier** is the top revenue driver, generating over ₹60,000—nearly triple the revenue of other top items.
+* **Regional Leader:** The **West Region** is the powerhouse, contributing over ₹10 Lakhs (2.5x more than the Central region).
+* **Q4 Seasonality:** Significant sales spikes occur in **September and November**, indicating a strong year-end buying trend.
+* **High-Volume Model:** An AOV of ₹230 with nearly 10,000 orders confirms a high-frequency business mode.
+* **Category Strength:** The **Technology** category is the most vital, driving the highest proportion of both sales and profit.
 
 ## 🚀 Strategic Recommendations
-* [cite_start]**Bundle High-Margin Accessories:** Bundle the high-performing Canon Copier with consumables (ink/paper) to increase transaction value[cite: 3979].
-* [cite_start]**Bridge the October Gap:** Launch a **"Flash Sale" in October** to fix the revenue dip between the September and November peaks[cite: 3979].
-* [cite_start]**Revive Central Region:** Conduct targeted promotions in the **Central Region** to close the performance gap with the West[cite: 3979].
-* [cite_start]**Maximize Tech Budget:** Allocate more marketing spend to the **Technology category** during Q4 to capitalize on its high profitability[cite: 3979].
-* [cite_start]**Loyalty Incentives:** Implement a **Rewards Program** to turn the high volume of one-time buyers into repeat customers[cite: 3979].
+* **Bundle High-Margin Accessories:** Bundle the high-performing Canon Copier with consumables (ink/paper) to increase transaction value.
+* **Bridge the October Gap:** Launch a **"Flash Sale" in October** to fix the revenue dip between the September and November peaks.
+* **Revive Central Region:** Conduct targeted promotions in the **Central Region** to close the performance gap with the West.
+* **Maximize Tech Budget:** Allocate more marketing spend to the **Technology category** during Q4 to capitalize on its high profitability.
+* **Loyalty Incentives:** Implement a **Rewards Program** to turn the high volume of one-time buyers into repeat customers.
 
 ## 📁 Files Included
 * `Shobhit_Trivedi_Task1_ Superstore Analysis.xlsx`: The complete interactive workbook.
