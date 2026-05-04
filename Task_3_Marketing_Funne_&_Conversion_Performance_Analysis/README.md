@@ -70,50 +70,6 @@ The file `dashboard.html` is a fully interactive dashboard — no server or inst
 
 ---
 
-## Setup & Installation
-
-```bash
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/marketing-funnel-analysis.git
-cd marketing-funnel-analysis
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the Jupyter Notebook (recommended)
-jupyter notebook analysis.ipynb
-
-# OR run the Python script directly
-python analysis.py
-```
-
----
-
-## How to Upload to GitHub
-
-### Option 1 — Upload via GitHub Website (Easiest)
-
-1. Go to [github.com](https://github.com) and sign in
-2. Click the **"+"** button (top right) → **"New repository"**
-3. Name it `marketing-funnel-analysis` → Click **"Create repository"**
-4. Click **"uploading an existing file"**
-5. Drag and drop ALL files from this folder
-6. Write a commit message: `Add Marketing Funnel Analysis - Task 3`
-7. Click **"Commit changes"**
-
-### Option 2 — Using Git (Command Line)
-
-```bash
-git init
-git add .
-git commit -m "Add Marketing Funnel Analysis - Task 3"
-git branch -M main
-git remote add origin https://github.com/YOUR_USERNAME/marketing-funnel-analysis.git
-git push -u origin main
-```
-
----
-
 ## Marketing Funnel Stages
 
 The analysis models the customer journey through 5 funnel stages:
@@ -178,23 +134,6 @@ The analysis models the customer journey through 5 funnel stages:
 
 ---
 
-## Technologies Used
 
-- **Python 3.11**
-- **Pandas** — data loading, cleaning, and aggregation
-- **NumPy** — numerical operations
-- **Matplotlib** — visualizations
-- **Seaborn** — statistical plots
-- **Jupyter Notebook** — interactive analysis
 
----
 
-## Author
-
-Completed as part of the **Future Interns Data Science & Analytics Internship Program (2026)**
-
----
-
-## License
-
-This project is for educational and internship purposes.
